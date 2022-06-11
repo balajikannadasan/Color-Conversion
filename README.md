@@ -20,11 +20,15 @@ Perform color conversions for the image like RGB TO HSV,BGR TO GRAY,HSV TO RGB,R
 ### Step4:
 Use waitKey(0) and destroyAllWindows method to close images without errors.
 <br>
-
 ### Step5:
 Run the program and output is displayed.
-<br>
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ## Program:
 ```
 # Developed By: K.Balaji
@@ -119,29 +123,68 @@ cv2.destroyAllWindows()
 
 
 ```
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ## Output:
 ### Original Image
 ![output](./car.png)
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ### i) BGR and RGB to HSV and GRAY
 ![output](./bgr2hsv.png)
 ![output](./rgb2hsv.png)
 ![output](./bgr2gray.png)
 ![output](./rgb2gray.png)
-<br>
-<br>
 
 ### ii) HSV to RGB and BGR
 ![output](./hsv%202%20rgb.png)
 ![output](./hsv%202%20bgr.png)
 <br>
 <br>
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ### iii) RGB and BGR to YCrCb
 ![output](./rgb%202%20ycrcb.png)
 ![output](./bgr%202%20ycrcb.png)
 <br>
 <br>
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ### iv) Split and merge RGB Image
 ![output](./blue_image.png)
 ![output](./green_image.png)
